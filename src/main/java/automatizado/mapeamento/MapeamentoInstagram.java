@@ -26,4 +26,5 @@ public abstract class MapeamentoInstagram extends BaseInstagram {
     private String botaoDenunciar = "//button[contains(.,\'Denunciar\')]";
     private String botaoSpam = "//button[contains(.,\'É spam\')]";
     private String botaoFechar = "//button[contains(.,\'Fechar\')]";
+
 }
