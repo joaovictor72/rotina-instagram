@@ -1,6 +1,6 @@
 # rotina-instagram
 
-Algumas rotinas automatizadas do Instagram usando apenas xpath pra dar emoção 
+Algumas rotinas automatizadas do Instagram usando apenas xpath
 - Responder Story
 - Curtir Foto
 - Denunciar Foto
